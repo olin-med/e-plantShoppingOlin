@@ -16,7 +16,7 @@ function App() {
   };
 
   return (
-    <div className="app-container">
+    <div className="app-container background-image">
       <div className={`landing-page ${showProductList ? 'fade-out' : ''}`}>
         <div className="background-image"></div>
         <div className="content">
